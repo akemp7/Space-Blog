@@ -1,0 +1,19 @@
+.best{
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.acceptable{
+  font-size: 18px;
+  font-style: normal;
+}
+
+.me {
+  background-color:#696969;
+}
+
+body{
+  background-image:url("../img/space.jpg");
+  color: white;
+  background-repeat:round;
+}
