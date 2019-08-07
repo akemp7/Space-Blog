@@ -1,15 +1,21 @@
 .best{
   font-weight: bold;
   font-size: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .acceptable{
   font-size: 18px;
   font-style: normal;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .me {
   background-color:#696969;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 body{
